@@ -14,6 +14,11 @@ Bubbletrail is a dive log. It helps you log dives.
 Currently supported platforms are macOS and iOS. Android and Windows support
 is possible and planned.
 
+## Downloads
+
+- For macOS, grab the app from the [latest GitHub release](https://github.com/bubbletrail/bubbletrail/releases/latest).
+- For iOS, download the app from the [App Store](https://apps.apple.com/app/id6756735362).
+
 ## Screenshots
 
 ![macOS 1](screenshot-macos-1.png)
