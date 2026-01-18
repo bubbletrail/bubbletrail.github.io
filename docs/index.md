@@ -1,15 +1,15 @@
-# Bubbletrail
+# About
 
 Bubbletrail is a dive log. It helps you log and analyse dives.
 
 ## Features
 
 - Management of dives and dive sites
-  - Tag and describe dives and sites
+    - Tag and describe dives and sites
 - Import of dives from supported dive computers using Bluetooth LE
 - Display of technical and deco data for dives
-  - Dive computer reported deco ceiling
-  - Internal Buhlmann calculated deco ceiling and SurfGF
+    - Dive computer reported deco ceiling
+    - Internal Buhlmann calculated deco ceiling and SurfGF
 - Cross platform [syncing](syncing.md)
 - Import of logs in Subsurface, MacDive and UDDF formats
 - Export of logs in Subsurface format
@@ -37,10 +37,10 @@ often better to discuss beforehand in the forum.
 
 ### macOS
 
-![macOS 1](screenshot-macos-1.png)
-
-![macOS 2](screenshot-macos-2.png)
+<img src="img/screenshot-macos-1.png" style="width: 100%">
+<img src="img/screenshot-macos-2.png" style="width: 100%">
 
 ### iOS
 
-![iOS 1](screenshot-ios-1.png){: width="250"} ![iOS 2](screenshot-ios-2.png){: width="250"}
+<img src="img/screenshot-ios-1.png" style="width: 25%">
+<img src="img/screenshot-ios-2.png" style="width: 25%">

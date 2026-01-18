@@ -1,7 +1,0 @@
-title: The Bubbletrail dive log
-description: New generation cross platform, open source dive log
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-github:
-  repository_url: https://github.com/bubbletrail/bubbletrail/
