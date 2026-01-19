@@ -11,3 +11,5 @@ theme:
     accent: lime
 extra:
   generator: false
+markdown_extensions:
+  - admonition
