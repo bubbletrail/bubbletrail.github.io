@@ -1,6 +1,15 @@
 # About
 
-Bubbletrail is a dive log. It helps you log and analyse dives.
+Bubbletrail is a free, open-source dive log for recording and organising
+your scuba dives. It connects directly to dive computers over Bluetooth,
+imports logs from Subsurface and other programs, and displays dive profiles
+including depth, temperature, tank pressure, and calculated deco. Whether
+you're a recreational diver or into technical diving with multiple gas
+mixes, Bubbletrail keeps your dive history in one place.
+
+The app aims for a modern, intuitive interface and surfaces best-practice
+metrics like surface gradient factors (SurfGF) to help you understand your
+dives better.
 
 ## Features
 
@@ -15,8 +24,7 @@ Bubbletrail is a dive log. It helps you log and analyse dives.
 - Export of logs in Subsurface format
 - Free and [open source](https://github.com/bubbletrail/bubbletrail/)
 
-Currently supported platforms are macOS and iOS. Android and Windows support
-is possible and planned.
+Currently supported platforms are macOS, iOS, and Android.
 
 ## Downloads
 
