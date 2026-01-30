@@ -9,6 +9,8 @@ For **macOS**, download the `bubbletrail-macos-(version).zip` file from the
 
 For **iOS**, download the app from the [App Store][as].
 
+For **Android**, download the app from the [Play Store][ps].
+
 ## Import of existing logs
 
 Bubbletrail cam import dive logs in several common formats. Imports are
@@ -78,4 +80,5 @@ time you sync may take a while if you have a lot of dives.
 
 [gh]: https://github.com/bubbletrail/bubbletrail/releases/latest
 [as]: https://apps.apple.com/app/id6756735362
+[ps]: https://play.google.com/store/apps/details?id=app.bubbletrail.bubbletrail
 [sync]: https://admin.bubbletrail.net/

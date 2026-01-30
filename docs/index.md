@@ -28,10 +28,9 @@ Currently supported platforms are macOS, iOS, and Android.
 
 ## Downloads
 
-- For macOS, grab the app from the [latest GitHub
-  release](https://github.com/bubbletrail/bubbletrail/releases/latest).
-- For iOS, download the app from the [App
-  Store](https://apps.apple.com/app/id6756735362).
+- For macOS, grab the app from the [latest GitHub release][gh].
+- For iOS, download the app from the [App Store][as].
+- For Android, download the app from the [Play Store][ps].
 
 ## Contact & support
 
@@ -52,3 +51,7 @@ often better to discuss beforehand in the forum.
 
 <img src="img/screenshot-ios-1.png" style="width: 25%">
 <img src="img/screenshot-ios-2.png" style="width: 25%">
+
+[gh]: https://github.com/bubbletrail/bubbletrail/releases/latest
+[as]: https://apps.apple.com/app/id6756735362
+[ps]: https://play.google.com/store/apps/details?id=app.bubbletrail.bubbletrail
