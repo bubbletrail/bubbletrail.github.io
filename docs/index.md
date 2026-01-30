@@ -13,15 +13,13 @@ dives better.
 
 ## Features
 
-- Management of dives and dive sites
-    - Tag and describe dives and sites
-- Import of dives from supported dive computers using Bluetooth LE
-- Display of technical and deco data for dives
-    - Dive computer reported deco ceiling
-    - Internal Buhlmann calculated deco ceiling and SurfGF
-- Cross platform [syncing](syncing.md)
-- Import of logs in Subsurface, MacDive and UDDF formats
-- Export of logs in Subsurface format
+- Manage dives and dive sites, with tags, ratings, and descriptions
+- Import dives from Bluetooth LE dive computers
+- Keep track of dive equipment, import equipment from MacDive
+- Calculate deco ceiling and surface GF using Buhlmann ZHL-16c
+- Cross platform device-to-device [syncing](syncing.md)
+- Import logs from Subsurface, MacDive, and other programs using UDDF format
+- Export logs in Subsurface format
 - Free and [open source](https://github.com/bubbletrail/bubbletrail/)
 
 Currently supported platforms are macOS, iOS, and Android.
