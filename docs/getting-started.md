@@ -18,7 +18,7 @@ easiest to do in the desktop version of Bubbletrail as it allows selecting
 files from the computer filesystem, but are also possible in the mobile
 version if you get the file to your mobile device via a link or email.
 
-In desktop Bubbletrail, select `Settings` in the navigation bar and then
+In desktop Bubbletrail, select `Preferences` in the navigation bar and then
 `Import log file`. Choose a log file in one of the supported formats (see
 below). The dives in the log will be added to those already in Bubbletrail,
 with some logic for deduplication.
@@ -26,7 +26,12 @@ with some logic for deduplication.
 ### From MacDive
 
 Bubbletrail understands MacDive's own/native XML format. In MacDive, select
-your dives and then choose `Export` and `Selected as XML` in the menu.
+your dives and then choose `Export` and `Dives ... Selected as XML` in the menu.
+
+!!! tip
+
+    To also bring over your equipment, select `Export` and `Gear ... as CSV` in
+    MacDive, and then `Preferences` and `Import equipment` in Bubbletrail.
 
 ### From Subsurface
 
